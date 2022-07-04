@@ -27,3 +27,30 @@ button {
     font-size: larger;
     font-family:'Montserrat', sans-serif;
 }
+
+#image > img {
+    width: 30%;
+    height: 50%;
+}
+
+#desc {
+    margin-top: -250px;
+    margin-left: 800px;
+    color: white;
+}
+
+#ingredients {
+    margin-top: 130px;
+    margin-left: 570px;
+    color: bisque;
+}
+
+#ingredients > h3 {
+    margin-left: 100px;
+}
+
+#steps {
+    padding: 10px;
+    margin-left: 50px;
+    color: gold;
+}
