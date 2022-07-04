@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsla(360, 50%, 50%, 1);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+}
+
+img {
+    margin-left: 250px;
+    border-radius: 30px;
+    height: 700px;
+}
+
+.list {
+    margin-left: 800px;
+    line-height: 50px;
+    margin-top: -500px;
+}
+
+button {
+    font-size: larger;
+    font-family:'Montserrat', sans-serif;
+}
